@@ -1,0 +1,62 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    font-weight: bold;
+}
+body
+{
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+#main
+{
+    border-style: solid;
+}
+#container
+{
+    align-items: center;
+    background-color: teal;
+}
+#div-1
+{
+    height: 100px;
+}
+#div-2
+{
+    margin: 25px;
+}
+#profile
+{
+    position: absolute;
+    width: 100px;
+    top: 115px;
+    left: 100px;
+}
+h1
+{
+    font-size: 40px;
+}
+h3
+{
+    font-size: 25px;
+}
+p
+{
+    font-size: 15px;
+}
+img
+{
+    width: 30%;
+    display: inline-block;
+}
+h3> img
+{
+    width: 3%;
+}
+p> img
+{
+    width: 3%;
+}
